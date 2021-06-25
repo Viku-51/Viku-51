@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikrant Chandra</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
+
+
+
 <p align="left"> <a href="https://twitter.com/chandra_vikrant" target="blank"><img src="https://img.shields.io/twitter/follow/chandra_vikrant?logo=twitter&style=for-the-badge" alt="chandra_vikrant" /></a> </p>
 
 - 🔭 I’m currently working on [Algorithmic Trading](https://github.com/Viku-51/Algorithmic_Trading)
@@ -12,6 +15,9 @@
 - 📫 How to reach me **vikrantchandra12@gmail.com**
 
 - ⚡ Fun fact **One day I am gonna make the onions cry 😼**
+
+
+![Design thinking-pana](https://user-images.githubusercontent.com/58190465/123383058-50b60a80-d5b0-11eb-8c3f-0569dc0e0607.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
