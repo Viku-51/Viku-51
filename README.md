@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikrant Chandra</h1>
-<h3 align="center">A passionate UI/UX Designer from India</h3>
+<h3 align="center">A passionate UI/UX Designer & Frontend Designer from India</h3>
 
 
 
