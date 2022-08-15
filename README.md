@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/chandra_vikrant" target="blank"><img src="https://img.shields.io/twitter/follow/chandra_vikrant?logo=twitter&style=for-the-badge" alt="chandra_vikrant" /></a> </p>
 
-- 🔭 I’m currently working on [Algorithmic Trading](https://github.com/Viku-51/Algorithmic_Trading)
+- 🔭 I’m currently working on [Decentralized application](https://github.com/Viku-51/Decentralized-Crypto-CrowdFunding)
 
 - 🌱 I’m currently learning **React**
 
